@@ -6,6 +6,9 @@ name:string;
 pass:string;
 }
 type ReadOnly = Pro<Procuct>
-
+enum Price {
+Price,
+Module
+}
 
 
